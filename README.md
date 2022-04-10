@@ -6,5 +6,5 @@ This is an easy example for [react query](https://github.com/tannerlinsley/react
 
 ### Screen shots
 <p float="left">
-<img src="https://github.com/mmttt89/react_query_example/blob/main/Screenshots/screenshot01.png" width="400" aspectRatio="2/1">
+<img src="https://github.com/mmttt89/react_query_example/blob/main/src/assets/screenshot01.png" width="400" aspectRatio="2/1">
 </p>
