@@ -3,3 +3,8 @@ This is an easy example for [react query](https://github.com/tannerlinsley/react
 
 ### Installation
 - Just run **`yarn`** or **`npm i`** to install node_modules
+
+### Screen shots
+<p float="left">
+<img src="https://github.com/mmttt89/react_query_example/blob/main/Screenshots/screenshot01.png" width="400" aspectRatio="2/1">
+</p>
